@@ -1,1 +1,1 @@
-# smad-203-static-website.github.io
+# smad-203-static-website
